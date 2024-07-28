@@ -1,0 +1,14 @@
+/ProjetoSimulado/build/*
+/ProjetoSimulado/manifest.mf
+/ProjetoSimuladov1/*
+/ProjetoSimuladov1/build.xml
+
+#   netbeans 
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
