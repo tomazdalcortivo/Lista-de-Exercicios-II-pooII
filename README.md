@@ -5,17 +5,17 @@
 
 #### a) Crie uma classe que retorne uma prova de PSS contendo 5 questões. Você deve popular os objetos no código-fonte mesmo.
 
-- [ ] Criar classe que retorne prova de PSS com 5 questões.
+- [x] Criar classe que retorne prova de PSS com 5 questões.
 
 #### b) Finalize a implementação da interface gráfica com os seguintes itens:
 
-- [ ] Combobox deve mostrar todas as questões da prova.
-- [ ] Os checkbox e campos de textfield devem mostrar os dados da prova selecionada.
-- [ ] Os botões de anterior e posterior devem estar funcionais.
-- [ ] O botão de exibir imagem deve estar habilitado caso exista uma imagem associada com a questão e deve abrir a tela de imagem caso clicado.
-- [ ] Cada vez que um checkbox for clicado a soma deve ser atualizada conforme os valores das alternativas e o estado dos checkbox.
+- [x] Combobox deve mostrar todas as questões da prova.
+- [x] Os checkbox e campos de textfield devem mostrar os dados da prova selecionada.
+- [x] Os botões de anterior e posterior devem estar funcionais.
+- [x] O botão de exibir imagem deve estar habilitado caso exista uma imagem associada com a questão e deve abrir a tela de imagem caso clicado.
+- [x] Cada vez que um checkbox for clicado a soma deve ser atualizada conforme os valores das alternativas e o estado dos checkbox.
 - [ ] O botão de corrigir deve funcionar conforme a descrição do enunciado.
-- [ ] O botão de limpar deve colocar todos os checkbox como não selecionados e remover todos os destaques de acerto e erro, caso existam.
+- [x] O botão de limpar deve colocar todos os checkbox como não selecionados e remover todos os destaques de acerto e erro, caso existam.
 
 #### c) Aplique o mapeamento objeto-relacional para criar o banco de dados adequado para o problema considerando o diagrama de classes.
 
@@ -36,4 +36,3 @@
 #### g) Implemente a funcionalidade de salvar as respostas de um usuário.
 
 - [ ] Implementar funcionalidade para salvar respostas de um usuário.
-# Lista-de-Exercicios-II-pooII
